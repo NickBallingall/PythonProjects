@@ -1,0 +1,2 @@
+
+Taken directly from a piece of coursework, this code was largely an exercise in data visualisation. There's nothing overly complex, with one 'supervised' & one 'unsupervised' method of data analysis chosen for a dataset of data professional salaries.

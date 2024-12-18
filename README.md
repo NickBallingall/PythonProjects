@@ -4,5 +4,3 @@ This page contains a selection of scripts I have written in python for various f
 
 All projects are currently uploaded as jupyter notebooks.
 Instructions & information for each project can be found in the individual folders and also in markdown cells within the notebooks
-
-Please don't hesitate to reach out with questions about any of the projects
